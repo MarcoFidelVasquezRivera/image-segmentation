@@ -2,7 +2,7 @@
 
 In this project I create an image segmentation model by implementing the U-Net architecture.
 
-The data used to train the model was obtaines from [kaggle] (https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies). 
+The data used to train the model was obtaines from [kaggle](https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies). 
 
 The model achieved the following metrics.
 
