@@ -5,6 +5,7 @@ In this project I create an image segmentation model by implementing the U-Net a
 The data used to train the model was obtaines from [kaggle] (https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies). 
 
 The model achieved the following metrics.
+
 ![image](https://github.com/MarcoFidelVasquezRivera/image-segmentation/assets/54719844/bc89d86a-0b64-49d3-bd2c-341f3254238a)
 
 
