@@ -1,8 +1,8 @@
 # Water bodies image-segmentation
 
-In this project I create an image segmentation model by implementing the U-Net architecture.
+In this project I created an image segmentation model by implementing the U-Net architecture. Some of the tools used un this project are keras, tensorflow, scikit-learn, matplotlib and opencv
 
-The data used to train the model was obtaines from [kaggle](https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies). 
+The data used to train the model was obtained from [kaggle](https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies). 
 
 The model achieved the following metrics.
 
